@@ -1,0 +1,1 @@
+function changeText(id) {id.innerHTML = "Hooray! It works!"; }

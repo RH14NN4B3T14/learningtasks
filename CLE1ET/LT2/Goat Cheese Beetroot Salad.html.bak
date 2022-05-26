@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Goat Cheese/ Beetroot Salad </title>
+  </head>
+  
+  <body>
+    <h1> Goat Cheese/ Beetroot Salad </h1>
+    <p> <img src= "goatcheesebeetrootsalad.jpg" alt= "" width= "450" height= "300"> </p>
+	
+    <h2> Ingredients </h2>
+    <ul>
+      <li> Lettuce/ Any leafy salad base you like. </li>
+      <li> Beetroot (cut into slices). </li>
+      <li> Goats Cheese (cut into slices). </li>
+      <li> Walnuts (crush up a bit). </li>
+      <li> Balsamic Dressing (you can also make your own if you know how lol). </li>
+    </ul>
+	
+    <h2> Method </h2>
+    <ol>  
+      <li> Put lettuce/ leafy salad on plate. </li>
+      <li> Add beetroot and goats cheese on the top. </li>
+      <li> Sprinkle crushed walnuts on top. </li>
+      <li> Drizzle balsamic dressing over. </li>
+   </ol>
+	  </body>
+
+</html>

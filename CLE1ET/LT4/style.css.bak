@@ -1,0 +1,48 @@
+body{
+	background-image: url(natsu.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	}
+			
+#wrapper{
+	margin-right: 5px;
+	margin-left: 5px;
+	max-width: 1024px;
+	padding: 10px;
+}
+			
+#quote p{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 255px;
+	max-width: 960px;
+	font-family: 'Anton', sans-serif;
+	font-size: 34px;
+	color: #fff;
+	text-align: left;
+	text-shadow: 3px 3px 8px #000000;
+	line-height: 62px;
+}
+
+#quote p2{
+	font-family: 'Pacifico', cursive;
+	font-size: 43px;
+	color: #FA8072;
+	text-shadow: 3px 3px 8px #000000;
+}
+
+#char span{
+	margin-top: 90px;
+	margin-right: auto;
+	margin-left: auto;
+	position: absolute;
+	right: 60px;
+	width: auto;
+	float: right;
+	font-family: 'Anton', sans-serif;
+	font-style: italic;
+	font-size: 30px;
+	color: #A52A2A;
+}
